@@ -1,2 +1,2 @@
 # a-tester
-Automation tester cource repository
+Automation tester course repository
